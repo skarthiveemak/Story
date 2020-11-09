@@ -1,0 +1,1 @@
+this is story from branch 1 to master
